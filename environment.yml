@@ -1,0 +1,23 @@
+name: age_of_exposure_v2
+channels:
+  - defaults
+dependencies:
+  - pip=21.1.2
+  - python=3.7.10
+  - setuptools=52.0.0
+  - pip:
+    - gensim==3.8.1
+    - matplotlib==3.4.2
+    - networkx==2.4
+    - nltk==3.4.5
+    - numpy==1.17.3
+    - pandas==0.25.2
+    - pyenchant==2.0.0
+    - scikit-learn==0.24.1
+    - scipy==1.3.1
+    - seaborn==0.9.0
+    - spacy==2.1.3
+    - syllables==0.1.0
+    - textstat==0.6.2
+    - tqdm==4.54.1
+    - pyyaml==5.4.1
