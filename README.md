@@ -47,4 +47,6 @@ Dascalu, M., McNamara, D., Crossley, S., & Trausan-Matu, S. (2016, March). Age o
 
 Botarleanu, R. M., Dascalu, M., Watanabe, M., McNamara, D. S., & Crossley, S. A. (2021, June). Multilingual Age of Exposure. In International Conference on Artificial Intelligence in Education (pp. 77-87). Springer, Cham.
 
-To be added: AoE 2.0
+Botarleanu, R.-M., Dascalu, M., Watanabe, M., Crossley, S. A., & McNamara, D. S. (submitted). Age of Exposure 2.0: Estimating Word Complexity using Iterative Models of Word Embeddings. Behavior Research Methods. 
+## Acknowledgement
+This research was supported by a grant of the Romanian National Authority for Scientific Research and Innovation, CNCS – UEFISCDI, project number TE 70 PN-III-P1-1.1-TE-2019-2209, ATES – “Automated Text Evaluation and Simplification”, the Institute of Education Sciences (R305A180144 and R305A180261), and the Office of Naval Research (N00014-17-1-2300; N00014-20-1-2623). The opinions expressed are those of the authors and do not represent views of the IES or ONR. We would also like to thank Prof. Peter Foltz for providing the Word Maturity indices that were used as a baseline in the previous papers.
