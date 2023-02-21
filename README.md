@@ -12,7 +12,7 @@ Included:
 - *evaluate_aoa.py*: evaluates models using a set of indices
 - *generate_aoe_v2_predictions.py*: trains using AoA norms and runs inference on the entire corpus vocabulary
 - **run_experiment.sh**: calls all scripts in order, given a quantiles file and an experiment name
-- **train_model_wv.py**: training code for Multilingual AoE 2.0
+- **train_model_multilingual_aoe_v2.py**: training code for Multilingual AoE 2.0
 
 ## Environment set-up
 Install Anaconda: https://www.anaconda.com/products/individual
