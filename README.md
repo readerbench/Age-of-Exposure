@@ -12,6 +12,7 @@ Included:
 - *evaluate_aoa.py*: evaluates models using a set of indices
 - *generate_aoe_v2_predictions.py*: trains using AoA norms and runs inference on the entire corpus vocabulary
 - **run_experiment.sh**: calls all scripts in order, given a quantiles file and an experiment name
+- **train_model_wv.py**: training code for Multilingual AoE 2.0
 
 ## Environment set-up
 Install Anaconda: https://www.anaconda.com/products/individual
@@ -41,6 +42,7 @@ Please contact us through the emails listed on the papers in the references sect
 ## Resources
 - resources/AoEv1.csv: the indices from the AoE 1.0
 - resources/predicted_AoE2_vocab_sorted_linear_rf_tasa_coca_cds.csv: predicted AoA scores for the best performing model in AoE 2.0
+- resources/multilingual_aoe_v2_[de|en|es|fr]: predicted AoA scores for the best performing model in Multilingual Age of Exposure 2.0
 
 ## References
 Dascalu, M., McNamara, D., Crossley, S., & Trausan-Matu, S. (2016, March). Age of exposure: a model of word learning. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 30, No. 1).
